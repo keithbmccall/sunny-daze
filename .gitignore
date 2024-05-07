@@ -37,3 +37,6 @@ next-env.d.ts
 
 # yeah
 /src/keychain
+.husky
+package-lock.json
+.idea
